@@ -63,6 +63,7 @@ with open("missing-res.json", "w") as f:
 
 	json.dump(obj=array, fp=f)
 
+# CSV Discarded due to , breaking the CSV format
 # with open('students.csv', 'w', newline='') as file:
 # 		writer = csv.writer(file)
 # 		writer.writerow(["PersonId", "Name", "InputBase64", "TargetBase64" "IsFound", "ContactPhoneNumber", "RekognitionSearchFaces"])
