@@ -1,4 +1,4 @@
-# Image Processing and API Integration
+# Find Missing People Images in Photos and Videos Database
 
 This script is designed to process a folder of images, encode them into base64 format, and then send them as JSON payloads to an API endpoint for further processing. It is primarily intended for use with images related to missing persons or objects. This README will provide an overview of how to use the script and its functionality.
 
